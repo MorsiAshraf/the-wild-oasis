@@ -4,5 +4,5 @@ It's a dashboard for an imaginary hotel called the website which manages booking
 
 ## Demo - Users for testing -:
 
-email: morsi@example.com
+email: morsi@example.com <br>
 password: 123456
